@@ -6,16 +6,18 @@ Welcome to **UTS_TKI_Tugas2**! Repostiry ini berisi 50 putusan dari direktori PI
 ## 🧰 Getting Started
 
 Tertarik dengan dataset kami? Kalian bisa **clone** repository kami dengan cara
-\```bash
+```bash
 git clone https://github.com/Nvaraotr/UTS_TKI_Tugas2.git
-\```
+```
 
 
 ## 📁 Repository Structure
 
-\```
+```plaintext
 UTS_TKI_Tugas2/
-├── Dataset/                  
-├── Overview/           
+├── Dataset/
+    └── Narkotika.zip
+├── Overview/   
+    └── Overview.xlsx
 └── README.md
-\```
+```
